@@ -22,7 +22,8 @@ class List extends Component {
             {name: 'Bmw', value: 27000, stock: 0},
             {name: 'Audi', value: 24500, stock: 5},
             {name: 'Seat', value: 22000, stock: 6},
-            {name: 'Kia', value: 19500, stock: 0}
+            {name: 'Kia', value: 19500, stock: 0},
+            {name: 'Honda', value: 23200, stock: 1}
         ];
 
         var companiesToShow = [];
