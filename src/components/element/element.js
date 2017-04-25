@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import './element.css';
 
 class Element extends Component {
@@ -12,11 +13,11 @@ class Element extends Component {
 }
 
 Element.propTypes = {
-    company: React.PropTypes.shape({
-        name: React.PropTypes.string,
-        value: React.PropTypes.number,
-        stock: React.PropTypes.number
-    }).isRequired
+    company: PropTypes.shape({
+        name: PropTypes.string,
+        value: PropTypes.number,
+        stock: PropTypes.number
+    })
 }
 
 export default Element;
