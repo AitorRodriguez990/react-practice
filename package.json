@@ -1,6 +1,7 @@
 {
   "name": "hello-world",
   "version": "0.1.0",
+  "homepage": "https://github.com/AitorRodriguez990/react-practice",
   "private": true,
   "devDependencies": {
     "react-scripts": "0.7.0"
