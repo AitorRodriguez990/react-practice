@@ -1,7 +1,7 @@
 {
   "name": "hello-world",
   "version": "0.1.0",
-  "homepage": "https://github.com/AitorRodriguez990/react-practice",
+  "homepage": "https://aitorrodriguez990.github.io/react-practice",
   "private": true,
   "devDependencies": {
     "react-scripts": "0.7.0"
@@ -15,6 +15,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   }
 }
