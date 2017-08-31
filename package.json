@@ -1,9 +1,10 @@
 {
   "name": "stock-control-using-react",
   "version": "1.0.0",
-  "homepage": "https://aitorrodriguez990.github.io/react-practice",
+  "homepage": "https://aitorrodriguez990.github.io/stock-control-using-react",
   "private": true,
   "devDependencies": {
+    "gh-pages": "^1.0.0",
     "react-scripts": "0.7.0"
   },
   "dependencies": {
