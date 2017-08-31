@@ -1,6 +1,6 @@
 {
-  "name": "hello-world",
-  "version": "0.1.0",
+  "name": "stock-control-using-react",
+  "version": "1.0.0",
   "homepage": "https://aitorrodriguez990.github.io/react-practice",
   "private": true,
   "devDependencies": {

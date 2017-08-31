@@ -1,10 +1,10 @@
-# react-practice
+# Stock control using React
 
-A list of products with control of stock for React practice
+A list of products with control of stock for practice React
 
 ## Demo
 
-You can see a demo [here](https://aitorrodriguez990.github.io/react-practice/).
+You can see a demo [here](https://aitorrodriguez990.github.io/stock-control-using-react/).
 
 ## Thanks
 
